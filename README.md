@@ -1,69 +1,42 @@
-<h1 align="center">Eros Fernandes</h1> <p align="center"> Estudante de Engenharia de Software focado em Cloud, AWS/GCP, automação com IA e desenvolvimento de aplicações reais. </p> <p align="center"> <a href="https://github.com/ErosBarbosa">GitHub</a> · <a href="erosx3333@gmail.com">E-mail</a> · <a href="https://www.linkedin.com/in/eueros/">LinkedIn</a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=180&section=header&text=Eros%20Fernandes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20AWS%20%7C%20GCP%20%7C%20IA%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=16" /> <div align="center">
+Typing SVG
+
+</div> <div align="center"> <a href="https://github.com/ErosBarbosa"> <img src="https://img.shields.io/badge/GitHub-ErosBarbosa-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:erosx3333@gmail.com"> <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/eueros/"> <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
 Sobre mim
-Sou estudante de Engenharia de Software em construção do meu primeiro caminho profissional na área de Cloud Computing.
+Sou estudante de Engenharia de Software e estou construindo minha trajetória para atuar com Cloud Computing, AWS, GCP, automação e soluções cloud-native.
 
-Tenho estudado AWS, GCP, arquitetura serverless, automação com inteligência artificial e desenvolvimento de sistemas web. Uso IA como parceira de produtividade para acelerar estudos, criar protótipos, documentar projetos e transformar ideias em soluções funcionais.
+Gosto de transformar ideias em sistemas funcionais. Meus projetos misturam desenvolvimento web, Firebase, arquitetura serverless, SaaS, automação com IA e problemas reais, especialmente em contextos de saúde pública, gestão e produtividade.
 
-Meu foco atual é evoluir para uma primeira oportunidade em Cloud, combinando fundamentos de software, infraestrutura moderna e projetos práticos com impacto real.
+Atualmente estou fortalecendo minha base técnica para conquistar minha primeira oportunidade em Cloud, DevOps ou desenvolvimento de aplicações modernas em nuvem.
 
-Objetivo profissional
-Busco minha primeira oportunidade na área de Cloud, DevOps ou desenvolvimento de soluções cloud-native, especialmente em ambientes que usem:
-
-AWS ou Google Cloud Platform
-Firebase, serverless e bancos em nuvem
-Docker e APIs
-Automação com IA
-Sistemas web escaláveis
-Segurança, governança e boas práticas de engenharia
-Tecnologias e Ferramentas
-<p> <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,python,fastapi,typescript,react,nextjs,nodejs,js,html,css,git,github,postgres,linux" /> </p>
+Foco atual
+Cloud Computing    AWS    GCP    Firebase    Serverless
+Docker             APIs   CI/CD   IA          Automação
+Stack e ferramentas
+<div align="center"> <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,python,fastapi,typescript,react,nextjs,nodejs,js,html,css,git,github,postgres,linux,vscode" /> </div>
 Projetos em destaque
+<div align="center"> <a href="https://github.com/ErosBarbosa/viasaude"> <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ErosBarbosa&repo=viasaude&theme=tokyonight&hide_border=true&border_radius=12" /> </a> <a href="https://github.com/ErosBarbosa/mae"> <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ErosBarbosa&repo=mae&theme=tokyonight&hide_border=true&border_radius=12" /> </a> </div> <div align="center"> <a href="https://github.com/ErosBarbosa/HORUS-OEIRAS"> <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ErosBarbosa&repo=HORUS-OEIRAS&theme=tokyonight&hide_border=true&border_radius=12" /> </a> <a href="https://github.com/ErosBarbosa/medicamentos"> <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ErosBarbosa&repo=medicamentos&theme=tokyonight&hide_border=true&border_radius=12" /> </a> </div>
+O que estou construindo
+Projeto	Foco	Tecnologias
 ViaSaude
-Sistema de gestão de pacientes e transporte em saúde com foco em logística, controle operacional e arquitetura serverless.
-
-Stack: Next.js, React, TypeScript, Firebase, Firestore, Firebase Auth, RBAC
-Destaques: autenticação, permissões por perfil, dashboard, QR Code, dados em tempo real e implantação cloud.
-
-Ver repositório
-
-IntegraFarma Oeiras
-Portal municipal para assistência farmacêutica, reunindo guia de medicamentos, gestão de acessos, conteúdos de aprendizagem e suporte operacional.
-
-Stack: HTML, CSS, JavaScript, GitHub Pages
-Destaques: portal institucional, UX responsiva, modo claro/escuro e integração com módulos externos.
-
-Ver repositório
-
-Guia Municipal de Medicamentos
-Aplicação web para consulta de medicamentos padronizados, com busca, filtros, categorias e organização de dados.
-
-Stack: JavaScript, HTML, CSS
-Destaques: ferramenta prática para reduzir erros, agilizar consultas e apoiar rotinas de saúde pública.
-
-Ver repositório
-
+Gestão de saúde com arquitetura serverless	Next.js, TypeScript, Firebase, Firestore, RBAC
 TechMath Labs
-Plataforma SaaS para proteção de propriedade intelectual de software usando IA, criptografia, automação documental e arquitetura full stack.
+SaaS com IA, backend e containers	React, TypeScript, FastAPI, PostgreSQL, Redis, Docker
+IntegraFarma Oeiras
+Portal municipal para saúde pública	HTML, CSS, JavaScript, GitHub Pages
+Medicamentos
+Busca e filtros de medicamentos	JavaScript, HTML, CSS
+Em evolução
+Preparação para certificações Cloud, começando por fundamentos AWS e GCP
+Prática com Firebase, arquitetura serverless e autenticação
+Estudos de Docker, APIs, CI/CD e deploy
+Uso de IA para acelerar documentação, automação, prototipação e análise de código
+Criação de projetos com problema real, explicação clara e foco em impacto
+GitHub em números
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ErosBarbosa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBarbosa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" /> </div> <div align="center"> <img height="165" src="https://streak-stats.demolab.com?user=ErosBarbosa&theme=tokyonight&hide_border=true&border_radius=12" /> </div>
+Objetivo profissional
+Busco minha primeira oportunidade na área de Cloud, DevOps ou desenvolvimento de soluções cloud-native.
 
-Stack: React, TypeScript, FastAPI, PostgreSQL, Redis, Docker
-Destaques: arquitetura com backend, frontend, containers, automação e proposta de uso de IA aplicada.
+Quero atuar em ambientes onde eu possa aprender com projetos reais, contribuir com sistemas bem documentados e crescer tecnicamente em arquitetura, infraestrutura, segurança, automação e entrega de software.
 
-Ver repositório
-
-Em estudo
-AWS Cloud Practitioner
-Google Cloud Platform
-Arquiteturas serverless
-Docker e containers
-CI/CD com GitHub Actions
-Observabilidade e boas práticas de deploy
-Segurança em aplicações cloud
-Automação com IA
-Estatísticas
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ErosBarbosa&show_icons=true&theme=github_dark&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosBarbosa&layout=compact&theme=github_dark&hide_border=true" /> </p>
-Como penso como desenvolvedor
-Gosto de construir projetos que resolvem problemas reais. Meu interesse principal está em transformar ideias em sistemas úteis, documentados e preparados para evoluir.
-
-Hoje estou fortalecendo minha base em cloud para sair do nível de "aplicação que roda" para "solução que pode ser implantada, monitorada, protegida e escalada".
-
-<p align="center"> Aberto a oportunidades de estágio, júnior e projetos na área de Cloud, DevOps e desenvolvimento de software. </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:2563EB,100:0F172A&height=120&section=footer" width="100%" /> </div>
